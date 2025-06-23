@@ -7,10 +7,12 @@
 
 #eosphorosai/dbgpt:latest
 #---
-langgenius/dify-api:1.4.3
-langgenius/dify-web:1.4.3
-langgenius/dify-plugin-daemon:0.0.10-local
-langgenius/dify-sandbox:0.2.12
+#langgenius/dify-api:1.4.3
+#langgenius/dify-web:1.4.3
+langgenius/dify-plugin-daemon:0.1.2-local
+#langgenius/dify-sandbox:0.2.12
+
+
 #downloads.unstructured.io/unstructured-io/unstructured-api:latest
 #langgenius/dify-api:0.8.3
 #langgenius/dify-web:0.8.3

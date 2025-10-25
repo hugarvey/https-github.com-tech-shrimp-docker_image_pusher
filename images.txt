@@ -15,9 +15,9 @@
 #qdrant/qdrant:v1.11.0
 #eosphorosai/dbgpt:latest
 #---
-langgenius/dify-api:1.9.2
-langgenius/dify-web:1.9.2
-langgenius/dify-plugin-daemon:0.3.3-local
+#langgenius/dify-api:1.9.2
+#langgenius/dify-web:1.9.2
+#langgenius/dify-plugin-daemon:0.3.3-local
 #langgenius/dify-sandbox:0.2.12
 #dataease/sqlbot:v1.0.0
 #postgres:17.5
@@ -27,7 +27,7 @@ langgenius/dify-plugin-daemon:0.3.3-local
 #postgres:15-alpine
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.9
-#ubuntu/squid:latest
+ubuntu/squid:latest
 #certbot/certbot
 #nginx:latest
 #semitechnologies/weaviate:1.19.0

@@ -14,6 +14,7 @@
 #ghcr.io/canner/wren-ui:0.31.2
 #qdrant/qdrant:v1.11.0
 #eosphorosai/dbgpt:latest
+gethue/hue:latest
 #---
 #langgenius/dify-api:1.9.2
 #langgenius/dify-web:1.9.2
@@ -28,7 +29,7 @@
 #redis:6-alpine
 #langgenius/dify-sandbox:0.2.9
 #ubuntu/squid:latest
-semitechnologies/weaviate:1.27.0
+#semitechnologies/weaviate:1.27.0
 #certbot/certbot
 #nginx:latest
 #semitechnologies/weaviate:1.19.0

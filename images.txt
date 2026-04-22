@@ -14,7 +14,8 @@
 #ghcr.io/canner/wren-ui:0.31.2
 #qdrant/qdrant:v1.11.0
 #eosphorosai/dbgpt:latest
-gethue/hue:latest
+#gethue/hue:latest
+nousresearch/hermes-agent:latest
 #---
 #langgenius/dify-api:1.9.2
 #langgenius/dify-web:1.9.2
